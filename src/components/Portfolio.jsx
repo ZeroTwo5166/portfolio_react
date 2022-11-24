@@ -3,16 +3,7 @@ import arrayDestruct from "../assets/portfolio/arrayDestruct.jpg";
 import roboFriends2 from '../assets/portfolio/robofriends2.png'
 
 const Portfolio = () => {
-  const portfolios = [
-    {
-      id: 1,
-      src: arrayDestruct,
-    },
-    {
-        id:2,
-        src: roboFriends2
-    }
-  ];
+
 
   return (
     <div
