@@ -1,6 +1,7 @@
 import React from "react";
 import arrayDestruct from "../assets/portfolio/arrayDestruct.jpg";
-import roboFriends2 from '../assets/portfolio/robofriends2.png'
+import roboFriends2 from '../assets/portfolio/robofriends2.png';
+import starwars from '../assets/portfolio/starwars.png'
 
 const Portfolio = () => {
 
@@ -15,7 +16,7 @@ const Portfolio = () => {
           <p className="text-4xl font-bold inline border-b-4 border-gray-500">
             Portfolio
           </p>
-          <p className="py-6">Kun de projekter, der er live på github</p>
+          <p className="py-6">Kun web projekter, der er live på github</p>
         </div>
 
         <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-8 px-12 sm:px-0">
@@ -43,7 +44,33 @@ const Portfolio = () => {
                     
                 </div>
             </div>
-        </div>        
+        </div>      
+        <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-8 px-12 sm:px-0">
+            <div className="shadow-md shadow-gray-600 rounded-lg">
+                <img
+                    src={starwars}
+                    alt=""
+                    className="rounded-md duration-200 hover:scale-105"
+                />
+                <div className="flex items-center justify-center">
+                  <form
+                  target="_blank"
+                   action="https://zerotwo5166.github.io/Starwars_api/">
+                    <button 
+                    className="w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105">
+                    Demo
+                    </button>
+                  </form>
+                  <form target="_blank"
+                  action="https://github.com/ZeroTwo5166/Starwars_api">
+                  <button className="w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105">
+                    Code
+                    </button>
+                  </form>
+                    
+                </div>
+            </div>
+        </div>  
        
       </div>
     </div>
