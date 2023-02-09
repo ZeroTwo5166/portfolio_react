@@ -1,7 +1,8 @@
 {
   "files": {
     "main.css": "/portfolio_react/static/css/main.b1b55136.css",
-    "main.js": "/portfolio_react/static/js/main.dfb53f58.js",
+    "main.js": "/portfolio_react/static/js/main.8453d085.js",
+    "static/media/starwars.png": "/portfolio_react/static/media/starwars.987168eb2d9f4bd0f359.png",
     "static/media/robofriends2.png": "/portfolio_react/static/media/robofriends2.d3e9535af9d6035e1ccc.png",
     "static/media/wpf.png": "/portfolio_react/static/media/wpf.a28b3a9173d0f7ced13d.png",
     "static/media/arrayDestruct.jpg": "/portfolio_react/static/media/arrayDestruct.84671dfd109d4de76bae.jpg",
@@ -18,10 +19,10 @@
     "static/media/javascript.png": "/portfolio_react/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/portfolio_react/index.html",
     "main.b1b55136.css.map": "/portfolio_react/static/css/main.b1b55136.css.map",
-    "main.dfb53f58.js.map": "/portfolio_react/static/js/main.dfb53f58.js.map"
+    "main.8453d085.js.map": "/portfolio_react/static/js/main.8453d085.js.map"
   },
   "entrypoints": [
     "static/css/main.b1b55136.css",
-    "static/js/main.dfb53f58.js"
+    "static/js/main.8453d085.js"
   ]
 }
