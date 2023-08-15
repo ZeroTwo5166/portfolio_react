@@ -1,11 +1,13 @@
 {
   "files": {
-    "main.css": "/portfolio_react/static/css/main.b1b55136.css",
-    "main.js": "/portfolio_react/static/js/main.8453d085.js",
+    "main.css": "/portfolio_react/static/css/main.2d57c085.css",
+    "main.js": "/portfolio_react/static/js/main.877405ff.js",
     "static/media/starwars.png": "/portfolio_react/static/media/starwars.987168eb2d9f4bd0f359.png",
-    "static/media/robofriends2.png": "/portfolio_react/static/media/robofriends2.d3e9535af9d6035e1ccc.png",
+    "static/media/gameDatabase.PNG": "/portfolio_react/static/media/gameDatabase.d69eb69eed03b9b80269.PNG",
+    "static/media/roboFriends.png": "/portfolio_react/static/media/roboFriends.6f6e8c87c74556a84033.png",
+    "static/media/bootstrap.png": "/portfolio_react/static/media/bootstrap.ca2bd3b63ce84d5327d4.png",
     "static/media/wpf.png": "/portfolio_react/static/media/wpf.a28b3a9173d0f7ced13d.png",
-    "static/media/arrayDestruct.jpg": "/portfolio_react/static/media/arrayDestruct.84671dfd109d4de76bae.jpg",
+    "static/media/angular.png": "/portfolio_react/static/media/angular.b6d2a9dec3e43e0ffb95.png",
     "static/media/kali.png": "/portfolio_react/static/media/kali.78c199df2edd55a06786.png",
     "static/media/react.png": "/portfolio_react/static/media/react.0cf951a69d8e58f83f9d.png",
     "static/media/api.jpg": "/portfolio_react/static/media/api.57d7a59f333419b3f1ec.jpg",
@@ -13,16 +15,14 @@
     "static/media/asp.jpg": "/portfolio_react/static/media/asp.40e0f02c264f27eece29.jpg",
     "static/media/github.png": "/portfolio_react/static/media/github.3b9e32903aa89111875d.png",
     "static/media/html.png": "/portfolio_react/static/media/html.2ba4fabc69a89a8f71e6.png",
-    "static/media/tailwind.png": "/portfolio_react/static/media/tailwind.e47ac876b8d4d0bba47a.png",
     "static/media/css.png": "/portfolio_react/static/media/css.69a82c2d9e45c933a9cb.png",
-    "static/media/mySql.png": "/portfolio_react/static/media/mySql.4676ad983d6bd3e9fac9.png",
     "static/media/javascript.png": "/portfolio_react/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/portfolio_react/index.html",
-    "main.b1b55136.css.map": "/portfolio_react/static/css/main.b1b55136.css.map",
-    "main.8453d085.js.map": "/portfolio_react/static/js/main.8453d085.js.map"
+    "main.2d57c085.css.map": "/portfolio_react/static/css/main.2d57c085.css.map",
+    "main.877405ff.js.map": "/portfolio_react/static/js/main.877405ff.js.map"
   },
   "entrypoints": [
-    "static/css/main.b1b55136.css",
-    "static/js/main.8453d085.js"
+    "static/css/main.2d57c085.css",
+    "static/js/main.877405ff.js"
   ]
 }
