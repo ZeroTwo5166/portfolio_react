@@ -8,27 +8,27 @@ const NavBar = () => {
   const links = [
     {
       id: 1,
-      linkName: "hjem",
+      linkName: "Home",
       link: "home",
     },
     {
       id: 2,
-      linkName: "om mig",
+      linkName: "About me",
       link: "about",
     },
     {
       id: 3,
-      linkName: "portfolio",
+      linkName: "Portfolio",
       link: "portfolio",
     },
     {
       id: 4,
-      linkName: "erfaring",
+      linkName: "Experience",
       link: "experience",
     },
     {
       id: 5,
-      linkName: "kontakt",
+      linkName: "Contact",
       link: "contact",
     },
   ];
@@ -36,7 +36,7 @@ const NavBar = () => {
   return (
     <div className="flex justify-between items-center w-full h-20 px-4 text-white bg-black fixed">
       <div>
-        <h1 className="text-5xl font-signature ml-2">Subarna</h1>
+        <h1 className="text-5xl font-signature ml-2">Zero Two</h1>
       </div>
 
       <ul className="hidden md:flex">

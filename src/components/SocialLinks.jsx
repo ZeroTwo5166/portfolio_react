@@ -38,7 +38,7 @@ const SocialLinks = () => {
           id: 4,
           child: (
             <>
-              Ansøgning <BsFillPersonLinesFill size={30} />
+              Application <BsFillPersonLinesFill size={30} />
             </>
           ),
           href: "/Ansøgning.pdf",

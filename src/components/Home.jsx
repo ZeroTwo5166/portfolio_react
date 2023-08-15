@@ -11,7 +11,7 @@ const Home = ({setColor1, setColor2, color1, color2}) => {
             <div
               style={{ fontSize: "20px", color: "white", fontWeight: "bold" }}
             >
-              Skift Baggrund--
+              Change Background -- 
               <input
                 className="color1"
                 type="color"
@@ -28,15 +28,15 @@ const Home = ({setColor1, setColor2, color1, color2}) => {
               />
             </div>
             <h2 className="text-4xl sm:text-7xl font-bold text-white">
-            Jeg er studerende
+            I am a student
             </h2>
             <p className="text-gray-300 py-4 max-w-md">
-              Mit navn er Subarna Gurung, og jeg er 21 år. Jeg går på TEC i
-              Ballerup. Jeg er igang med mit P2(Praktik forløb). Jeg er en
-              venlig og hårdtarbejdende studerende, der altid er motiveret og
-              ser frem til nye mål. Jeg forsøger altid at gøre mere end jeg kan
-              for at overgå mine evner samt opnå ny viden, erfaring og
-              færdigheder.
+               My name is Subarna Gurung and I am 22 years old. I go to TEC in
+               Ballerup. I am starting my P3 (Praktik forløb). I am a
+               friendly and hardworking student who is always motivated and
+               looking forward to new goals. I always try to do more than I can
+               to exceed my abilities and gain new knowledge, experience and
+               skills.
             </p>
 
             <div>

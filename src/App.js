@@ -17,7 +17,6 @@ function App() {
     <div style={{
       background: `linear-gradient(to right, ${bgColor1},${bgColor2})`,
     }} 
-
     >
     <NavBar/>
     <Home color1={bgColor1} 

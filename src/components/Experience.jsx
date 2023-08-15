@@ -4,13 +4,14 @@ import css from "../assets/css.png";
 import javascript from "../assets/javascript.png";
 import reactImage from "../assets/react.png";
 import github from "../assets/github.png";
-import tailwind from "../assets/tailwind.png";
+import bootstrap from "../assets/bootstrap.png";
 import cSharp from "../assets/cSharp.png"
-import mySql from "../assets/mySql.png"
+import mssql from "../assets/mssql.png"
 import kali from "../assets/kali.png"
 import aspNet from "../assets/asp.jpg"
 import wpf from "../assets/wpf.png"
 import api from "../assets/api.jpg"
+import angular from "../assets/angular.png"
 
 
 const Experience = () => {
@@ -41,17 +42,17 @@ const Experience = () => {
     },
     {
       id: 5,
-      src: tailwind,
-      title: "Tailwind",
+      src: bootstrap,
+      title: "Bootstrap",
       style: "shadow-sky-400",
     },
     {
       id: 6,
-      src: github,
-      title: "GitHub",
-      style: "shadow-gray-400",
-      add: ""
+      src: angular,
+      title: "Angular",
+      style: "shadow-red-400"
     },
+    
     {
       id:7,
       src: cSharp,
@@ -60,8 +61,8 @@ const Experience = () => {
     },
     {
       id:8,
-      src: mySql,
-      title: "MySql",
+      src: mssql,
+      title: "Mssql",
       style: "shadow-blue-400"
     },
     {
@@ -87,21 +88,27 @@ const Experience = () => {
       src: api,
       title: "Api",
       style: "shadow-gray-400"
-    }
+    },
+    {
+      id: 13,
+      src: github,
+      title: "GitHub",
+      style: "shadow-gray-400",
+    },
   ];
 
   return (
     
     <div
       name="experience"
-      className=" w-full h-screen"
+      className=" w-full h-screen mt-40"
     >
       <div className="max-w-screen-lg mx-auto p-4 flex flex-col justify-center w-full h-full text-white">
         <div>
           <p className="text-4xl font-bold border-b-4 border-gray-500 p-2 inline">
-            Erfaring
+            Experience
           </p>
-          <p className="py-6">Nogle teknologier jeg har arbejdet med</p>
+          <p className="py-6">Some technologies I have worked with</p>
         </div>
 
         <div className="w-full grid grid-cols-2 sm:grid-cols-3 gap-8 text-center py-8 px-12 sm:px-0">

@@ -11,9 +11,9 @@ const Contact = () => {
       <div className="flex flex-col p-4 justify-center max-w-screen-lg mx-auto h-full">
         <div className="pb-8">
           <p className="text-4xl font-bold inline border-b-4 border-gray-500">
-            Kontakt
+            Contact
           </p>
-          <p className="py-6">For at kontakt mig: </p>
+          <p className="py-6">Leave me a message: </p>
         </div>
 
         <div className=" flex justify-center items-center">
@@ -25,19 +25,19 @@ const Contact = () => {
             <input
               type="text"
               name="name"
-              placeholder="Indtast dit navn"
+              placeholder="Enter your name"
               className="p-2 bg-transparent border-2 rounded-md text-white focus:outline-none"
 
             />
             <input
               type="text"
               name="email"
-              placeholder="Indtast dit email"
+              placeholder="Enter your email"
               className="my-4 p-2 bg-transparent border-2 rounded-md text-white focus:outline-none"
             />
             <textarea
               name="message"
-              placeholder="Besked"
+              placeholder="Message"
               rows="10"
               className="p-2 bg-transparent border-2 rounded-md text-white focus:outline-none"
             ></textarea>

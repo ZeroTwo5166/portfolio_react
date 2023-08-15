@@ -12,26 +12,25 @@ const About = () => {
             className="text-4xl font-bold inline border-b-4 border-gray-500"
             style={{ color: "white" }}
           >
-            Om mig
+            About me
           </p>
         </div>
         <p className="text-xl mt-20">
-          Jeg er hårdtarbejdende og altid motiveret. Jeg ser altid frem til mine
-          mål. Jeg er god til gruppearbejde og endnu bedre til solo-værker. Jeg
-          er ærlig og elsker at lytte til folks meninger og anbefalinger. Jeg
-          elsker at samarbejde med nye mennesker og lære og opleve nye ting
+           I am hardworking and always motivated. I always look forward to my
+           goals. I am good at group works and even better at solo works. I
+           am honest and love to listen to people's opinions and recommendations. I
+           love to collaborate with new people and learn new things.
         </p>
         <br />
 
         <p className="text-xl">
-          Min tidligere arbejdserfaring inkluderer innovation på mange områder,
-          herunder strategier for mere effektivt teamwork. Hos min tidligere
-          virksomhed udarbejdede jeg strategier til forbedring af teamwork og
-          kommunikation mellem medlemmer af teamprojekter. Jeg kan ikke kun
-          bringe mine ideer fra mit tidligere job, men min generelle passion for
-          innovation til din organisation. Jeg er muligvis ikke så god på dansk,
-          men hvis sprog ikke betyder noget, er jeg sikker på, at jeg kan gøre
-          noget for dig.
+           My previous work experience includes innovation in many areas,
+           including strategies for more effective teamwork. At my previous one
+           company, I drew up strategies for improving teamwork and
+           communication between members of team projects. I can not only
+           bring my ideas from my previous job, but also my general passion for
+           innovation for your organization. I may not be perfect in Danish,
+           but if language isn't a dealbreaker, I may have something to offer.
         </p>
       </div>
     </div>
